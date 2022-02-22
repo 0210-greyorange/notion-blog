@@ -1,20 +1,20 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Grey-s-Blog-7fae5d038fbf46f9a55a4e2a12f04e7f',
+  rootNotionPageId: 'Fei-s-Blog-7fae5d038fbf46f9a55a4e2a12f04e7f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'GreyOrange',
+  name: "Fei's Blog",
   domain: 'greyorange.xyz',
-  author: 'Fei',
+  author: 'Grey',
 
   // open graph metadata (optional)
   description: '用于记录学习内容的博客',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  socialImageTitle: 't',
+  socialImageSubtitle: '',
 
   // social usernames (optional)
   github: '0210-greyorange',
